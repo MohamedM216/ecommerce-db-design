@@ -1,0 +1,101 @@
+1. User Management
+
+    Customers can register, log in, and manage profiles (name, email, password, phone, address).
+
+    Customers may have multiple shipping addresses.
+
+    Different user roles: Customers, Sellers (vendors), Admins.
+
+    # Authentication & security (password hashing, password reset).
+
+2. Product Catalog
+
+    # Products belong to categories & subcategories (e.g., Electronics → Phones → Smartphones).
+
+    Products belong to categories
+
+    Each product has:
+
+        SKU (Stock Keeping Unit), name, description, price.
+
+        Attributes (color, size, weight, brand, model).
+
+        # Multiple images & videos.
+
+        Inventory tracking (available stock, backorders).
+
+    # Products can have variants (e.g., iPhone 15 in Black/White, 128GB/256GB).
+
+    Product reviews & ratings from customers.
+
+3. Order Processing
+
+    Customers can add products to a cart (temporary storage before checkout).
+
+    Checkout process:
+
+        Select shipping address.
+
+        Choose payment method (Credit Card, PayPal, Cash on Delivery).
+
+        Apply discount coupons.
+
+        Calculate taxes & shipping fees (based on location).
+
+    Order status tracking (Pending, Paid, Shipped, Delivered, Cancelled, Refunded).
+
+    Order history for customers.
+
+# 4. Inventory & Warehouse Management
+
+#     Track stock levels across multiple warehouses.
+
+#     Low stock alerts (notify sellers when stock is low).
+
+#     Support for dropshipping (products shipped directly from suppliers).
+
+5. Payment Processing
+
+    Store payment transactions (successful/failed payments).
+
+    Support multiple payment gateways (Stripe, PayPal, etc.).
+
+    Handle refunds & chargebacks.
+
+6. Shipping & Logistics
+
+    Different shipping providers (FedEx, DHL, etc.).
+
+    Shipping rates based on weight, location, and method.
+
+    Tracking numbers for shipped orders.
+
+# 7. Discounts & Promotions
+
+#     Coupon codes (percentage-based or fixed discount).
+
+#     Seasonal sales (Black Friday, Christmas discounts).
+
+#     Loyalty programs (points system for returning customers).
+
+8. Seller/Vendor Management # (Multi-Vendor Support)
+
+    Sellers can list their own products.
+
+    Seller dashboard (manage orders, inventory, earnings).
+
+    Commission system (platform takes a % of each sale).
+
+# 9. Analytics & Reporting
+
+#     Sales reports (daily, monthly, yearly).
+
+#     Customer behavior tracking (most viewed products, abandoned carts).
+
+#     Revenue per seller/category.
+
+10. Customer Support
+
+    Ticket system for customer complaints/questions.
+
+    Return & refund requests (with reasons like "Wrong item," "Damaged product").
