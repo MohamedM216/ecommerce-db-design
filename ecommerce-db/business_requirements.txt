@@ -6,13 +6,11 @@
 
     Different user roles: Customers, Sellers (vendors), Admins.
 
-    # Authentication & security (password hashing, password reset).
+    Authentication & security (password hashing, password reset).
 
 2. Product Catalog
 
-    # Products belong to categories & subcategories (e.g., Electronics → Phones → Smartphones).
-
-    Products belong to categories
+    Products belong to categories & subcategories (e.g., Electronics → Phones → Smartphones).
 
     Each product has:
 
@@ -20,11 +18,11 @@
 
         Attributes (color, size, weight, brand, model).
 
-        # Multiple images & videos.
+        Multiple images & videos.
 
         Inventory tracking (available stock, backorders).
 
-    # Products can have variants (e.g., iPhone 15 in Black/White, 128GB/256GB).
+    Products can have variants (e.g., iPhone 15 in Black/White, 128GB/256GB).
 
     Product reviews & ratings from customers.
 
@@ -46,13 +44,13 @@
 
     Order history for customers.
 
-# 4. Inventory & Warehouse Management
+4. Inventory & Warehouse Management
 
-#     Track stock levels across multiple warehouses.
+    Track stock levels across multiple warehouses.
 
-#     Low stock alerts (notify sellers when stock is low).
+    Low stock alerts (notify sellers when stock is low).
 
-#     Support for dropshipping (products shipped directly from suppliers).
+    Support for dropshipping (products shipped directly from suppliers).
 
 5. Payment Processing
 
@@ -70,15 +68,15 @@
 
     Tracking numbers for shipped orders.
 
-# 7. Discounts & Promotions
+7. Discounts & Promotions
 
-#     Coupon codes (percentage-based or fixed discount).
+    Coupon codes (percentage-based or fixed discount).
 
-#     Seasonal sales (Black Friday, Christmas discounts).
+    Seasonal sales (Black Friday, Christmas discounts).
 
-#     Loyalty programs (points system for returning customers).
+    Loyalty programs (points system for returning customers).
 
-8. Seller/Vendor Management # (Multi-Vendor Support)
+8. Seller/Vendor Management (Multi-Vendor Support)
 
     Sellers can list their own products.
 
@@ -86,13 +84,13 @@
 
     Commission system (platform takes a % of each sale).
 
-# 9. Analytics & Reporting
+9. Analytics & Reporting
 
-#     Sales reports (daily, monthly, yearly).
+    Sales reports (daily, monthly, yearly).
 
-#     Customer behavior tracking (most viewed products, abandoned carts).
+    Customer behavior tracking (most viewed products, abandoned carts).
 
-#     Revenue per seller/category.
+    Revenue per seller/category.
 
 10. Customer Support
 
