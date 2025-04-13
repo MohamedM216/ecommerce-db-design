@@ -16,7 +16,7 @@
 
     Each product has:
 
-        SKU (Stock Keeping Unit), name, description, price.
+        # SKU (Stock Keeping Unit), name, description, price. # replace with simple id to be easier to benchmarck later
 
         Attributes (color, size, weight, brand, model).
 
